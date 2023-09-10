@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV PK</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <main>
+        <div class="main-description">
+          <h2 class="job-title">Front-End Developer</h2>
+          <h1>Pablo Dublo</h1>
+          <p class="description">
+           I have a lot of time to study, because of the accident I have been grounded at home for six months. I want to develop in the IT industry because with my health condition it is an ideal job. I've been familiar with the subject almost always, I learn new programs and it doesn't seem hard, hard work will pay off!
+          </p>
+        </div>
+
+        <div class="projects">
+          <h2 class="header-primary">Projects</h2>
+          <ol class="list-primary">
+            <li>
+              <a
+                class="list-primary-item"
+                href="https://barbershop-pl.goit.global/"
+                >https://barbershop-pl.goit.global/</a
+              >
+              <span class="list-primary-item"
+                >..................................</span
+              >[<span class="list-primary-item"> HTML5, CSS3</span>
+              ]
+            </li>
+            <li>
+              <a class="list-primary-item" href="https://cryptohub.goit.global/"
+                >https://cryptohub.goit.global/</a
+              >
+              <span class="list-primary-item"
+                >...........................................</span
+              >[ <span class="list-primary-item">JavaScript</span> ]
+            </li>
+            <li>
+              <a class="list-primary-item" href="kidslike.goit.global/"
+                >https://kidslike.goit.global/</a
+              >
+              <span class="list-primary-item"
+                >..................................................</span
+              >[ <span class="list-primary-item">React.js, Node.js</span> ]
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h2 class="header-primary">Work Experience</h2>
+          <h3 class="job-name">Front-End Developer <span class="highlight">Freelance</h3>
+
+          <p class="job-data">September 2019 - up to now | Country</p>
+          <ul class="job-list">
+            <li>
+              Development of new websites and web applications based on front-end technologies.
+            </li>
+            <li>
+              Ongoing maintenance and development of existing websites and web applications.
+            </li>
+            <li>
+              Communication with the client - specifying requirements and technical support.
+            </li>
+            <li>
+              Ayyy MAKARENA
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="job-name">Customer Advisor in <span class="highlight">DIY stores</span></h3>
+
+          <p class="job-data">January 2016 - September 2020 | Poland</p>
+          <ul class="job-manager">
+            <li>
+              Customer service, consulting, arranging orders, creating cost estimates
+            </li>
+            <li>Support for MS Office 365, Kabe, Tikkurila, Atlas.</li>
+            <li>Driving license, category B, UDT WJO1.</li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="job-name">Interim Lead <span class="highlight">Amazon WRO1</span></h3>
+
+          <p class="job-data">June 2021 - December 2021 | Poland</p>
+          <ul class="job-list">
+            <li>Leading a group of up to 100 people.</li>
+            <li>Interoperability with other departments.</li>
+            <li>Establishing and fulfilling long-term and short-term plans.</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="education">Education</h2>
+          <h3 class="national-university">National University</h3>
+          <h4 class="management">Management</h4>
+          <h5 class="job-end">September 2009 - June 2014 | Country</h5>
+        </div>
+      </main>
+      <aside>
+        <img
+          class="cv-photo"
+          src="photo.jpg"
+          width="370"
+          height="354"
+          alt="Zdjecie Shreka jako Pablo Dublo"
+        />
+        <div class="contact-block">
+          <h2 class="header-secondary">Contacts</h2>
+
+          <p class="contact-links">
+            <span class="bold">C:</span>
+            <a class="contact-links" href="tel:+7 777 666 77 77"
+              >+48 720 824 514</a
+            >
+            <br />
+            <span class="bold">E:</span>
+            <a class="contact-links" href="mailto:johndoe@gmail.com"
+              >paweloos95@gmail.com</a
+            >
+          </p>
+        </div>
+
+        <div class="tech-skills-block">
+          <h2 class="header-secondary">Tech Skills</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">HTML5</span></li>
+            <li><span class="list-secondary-item">CSS3</span></li>
+            <li><span class="list-secondary-item">GIT</span></li>
+            <li><span class="list-secondary-item">WebPack</span></li>
+            <li><span class="list-secondary-item">JavaScript</span></li>
+            <li><span class="list-secondary-item">Procreate IOS</span></li>
+            <li><span class="list-secondary-item">MS Office 365</span></li>
+          </ul>
+        </div>
+
+        <div class="soft-skills-block">
+          <h2 class="header-secondary">Soft Skills</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">Scrum</span></li>
+            <li><span class="list-secondary-item">Agile</span></li>
+            <li><span class="list-secondary-item">GTD</span></li>
+            <li><span class="list-secondary-item">Teamwork</span></li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>
