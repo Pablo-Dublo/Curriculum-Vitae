@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Paweł Kadłubek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <main>
+        <div class="main-description">
+          <h2 class="job-title">Junior Developer</h2>
+          <h1>Paweł Kadłubek</h1>
+          <p class="description">
+            Rok temu miałem wypadek, który spowodował, że mam problem z chodzeniem do dzisiaj, mimo przebytej operacji. 
+            Zostałem zamknięty na cały ten czas w mieszkaniu. Spędziłem większość czasu na przebranżowieniu się, ucząc się języków programowania.
+          </p>
+        </div>
+
+        <div class="projects">
+          <h2 class="header-primary">Projekty</h2>
+          <ol class="list-primary">
+            <li>
+              <a
+                class="list-primary-item"
+                href="https://github.com/Pablo-Dublo/_Python_/tree/main"
+                >https://github.com/Pablo-Dublo/_Python_/tree/main</a
+              >
+              <span class="list-primary-item"
+                >...</span
+              >[<span class="list-primary-item"> Python</span>
+              ]
+            </li>
+            <li>
+              <a class="list-primary-item" href="https://github.com/Pablo-Dublo/_JavaScript_"
+                >https://github.com/Pablo-Dublo/_JavaScript_/</a
+              >
+              <span class="list-primary-item"
+                >..................</span
+              >[ <span class="list-primary-item">JavaScript</span> ]
+            </li>
+            
+            <li>
+              <a class="list-primary-item" href="https://github.com/Pablo-Dublo/Curriculum-Vitae"
+                >https://github.com/Pablo-Dublo/Curriculum-Vitae</a
+              >
+              <span class="list-primary-item"
+                >.........</span
+              >[ <span class="list-primary-item">to oto CV</span> ]
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h2 class="header-primary">Edukacja</h2>
+
+          <p class="description">Liceum o profilu Policyjnym w latach 2011 - 2014 w Tarnowskich Górach,
+            </br>zakończone egzaminami maturalnymi.
+        </p>
+          
+          <h3 class="job-name">Szkolenie na Juniora <span class="highlight">Freelance</h3>
+
+          <p class="job-data">kwiecień 2022 - do teraz | Polska</p>
+          <ul class="job-list">
+            <li>Ukończyłem dwumiesięczny kurs JavaScript w firmie ALX, który wprowadził mnie w świat IT. Poznałem pracę w VSC oraz tematy związane z rozwojem "Front-end".
+            </li>
+            <li>
+              Następnym kursem było dwumiesięczne szkolenie z Pythona ponownie od ALX, o wiele lepiej i łatwiej pracuje mi się w "pyCharm" niż VSC.
+            </li>
+            <li>
+              Spędziłem 200 godzin na kursach. Wykonałem kilka projektów podczas nauki w obu językach. Zdecydowanie łatwiej idzie mi nauka i rozumowanie "Back-end". 
+            </li>
+            <li>
+              Oba kursy dały mi ogromny zastrzyk wiedzy. Posiadam dwa certyfikaty ukończenia tych zajęć. 
+              Przeczytałem, jak i mam zawsze pod ręką książkę od Davida M. Beazley związaną z programowaniem w Pythonie.
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="education">Doświadczenie zawodowe</h2>
+        </div>
+
+        <div>
+          <h3 class="job-name">Staż<span class="highlight"> Komisariat Policji w Bytomiu</span></h3>
+          <p class="job-data"> wrzesień 2014 - listopad 2014 Powstańców Warszawskich 74, 41-902 Bytom</p>
+          </div>
+
+        <div>
+          <h3 class="job-name">Parca na zlecenie<span class="highlight"> NGplast Piekary Śląskie</span></h3>
+          <p class="job-data"> 05 września 2014 + kwiecień 2015- czerwiec 2015  Inwestycyjna 6, 41-940 Piekary Śląskie</p>
+        </div>
+
+        <div>
+          <h3 class="job-name">Doradca klienta/Magazynier <span class="highlight">Sklepy budowlane</span></h3>
+          <p class="job-data"> 04 kwiecień 2016 - czerwiec 2018      | Sewera Polska Chemia  Nakielska 24, 42-600 Tarnowskie Góry</p>
+          <p class="job-data"> 12 październik 2018 - wrzesień 2020 | Leroy Merlin  Graniczna 4, 54-610 Wrocław</p>
+
+          <ul class="job-manager">
+            <li>
+              Obsługa klienta, doradztwo, mieszanie farb i tynków, składanie zamówień, tworzenie kosztorysów, kontakt z dostwcami, obsługa wózka widłowego.
+            </li>
+            <li>MS Office 365, Kabe, Tikkurila, Atlas.</li>
+            <li>Prawo jazdy kategorii B, Uprawnienia UDT WJO1.</li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="job-name">Tymczasowy Lider <span class="highlight">Amazon </span></h3>
+
+          <p class="job-data">Czerwiec 2021 - Grudzień 2021 | Lider WRO1</p>
+          <p class="job-data">Październik 2020 - Styczeń 2023 | Amazon Czekoladowa 1, 55-040 Bielany Wrocławskie</p>
+          <ul class="job-list">
+            <li>Kierowanie grupą do 100 osób.</li>
+            <li>Współpraca z innymi działami.</li>
+            <li>Ustalanie i realizacja planów długo i krótkoterminowych.</li>
+            <li>W krótkim czasie od zatrudnienia miałem okazję wykazać się na stanowiskach tymczasowego kierownika.</li>
+          </ul>
+        
+          <p class="oswiadczenie"> OŚWIADCZENIE</br>
+            Wyrażam zgodę na przetwarzanie moichdanych osobowych zawartych w ofercie pracy
+            dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą o ochronie
+            danych osobowych z dnia 29.08.97 Dz.U. poz. 883).</p>
+        </div>
+
+      </main>
+      <aside>
+        <img
+          class="cv-photo"
+          src="photo.jpg"
+          width="310"
+          height="365"
+          alt="Zdjecie: Paweł Kadłubek - Pablo-Dublo"
+        />
+        <div class="contact-block">
+          <h2 class="header-secondary">Kontakt</h2>
+
+          <p class="contact-links">
+            <span class="bold">Telefon:</span>
+            <a class="contact-links" href="tel:+48 720 824 514"
+              >+48 720 824 514</a
+            >
+            <br />
+            <span class="bold">Email:</span>
+            <a class="contact-links" href="mail:paweloos95@gmail.com"
+              >paweloos95@gmail.com</a
+            >
+            <br />
+            <span class="bold">Miasto:</span>
+            <a class="contact-links" href="adres:Wrocław"
+              >Wrocław</a
+            >
+          </p>
+
+        </div>
+
+        <div class="tech-skills-block">
+          <h2 class="header-secondary">Technologie</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">Python</span></li>
+            <li><span class="list-secondary-item">DJango</span></li>
+            <li><span class="list-secondary-item">Tekkinter</span></li>
+            <li><span class="list-secondary-item">API</span></li>
+            <li><span class="list-secondary-item">MySQL</span></li>
+            <li><span class="list-secondary-item">JavaScript</span></li>
+            <li><span class="list-secondary-item">HTML5</span></li>
+            <li><span class="list-secondary-item">CSS3</span></li>
+            <li><span class="list-secondary-item">Chat GPT</span></li>
+            <li><span class="list-secondary-item">MS Office 365</span></li>
+            <li><span class="list-secondary-item">IOS Procreate</span></li>
+          </ul>
+        </div>
+
+        <div class="soft-skills-block">
+          <h2 class="header-secondary">Umiejętności Interpersonalne</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">Scrum</span></li>
+            <li><span class="list-secondary-item">Agile</span></li>
+            <li><span class="list-secondary-item">GTD</span></li>
+            <li><span class="list-secondary-item">Praca zespołowa</span></li>
+            <li><span class="list-secondary-item">Kreatywność</span></li>
+            <li><span class="list-secondary-item">Adaptacja</span></li>
+            <li><span class="list-secondary-item">Ekstrawertyzm</span></li>
+            <li><span class="list-secondary-item">Zapał i pełne skupienie</span></li>
+            
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>
