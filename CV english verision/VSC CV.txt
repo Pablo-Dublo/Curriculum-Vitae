@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Paweł Kadłubek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <main>
+        <div class="main-description">
+          <h2 class="job-title">Junior Developer</h2>
+          <h1>Paweł Kadłubek</h1>
+          <p class="description">
+            A year ago, I had an accident that caused me to have trouble walking to this day, despite undergoing surgery. 
+            I've been confined to my apartment all this time. I spent most of my time career-switching, learning programming languages.
+          </p>
+        </div>
+
+        <div class="projects">
+          <h2 class="header-primary">Projects</h2>
+          <ol class="list-primary">
+            <li>
+              <a
+                class="list-primary-item"
+                href="https://github.com/Pablo-Dublo/_Python_/tree/main"
+                >https://github.com/Pablo-Dublo/_Python_/tree/main</a
+              >
+              <span class="list-primary-item"
+                >....</span
+              >[<span class="list-primary-item">Python</span>
+              ]
+            </li>
+            <li>
+              <a class="list-primary-item" href="https://github.com/Pablo-Dublo/_JavaScript_"
+                >https://github.com/Pablo-Dublo/_JavaScript_/</a
+              >
+              <span class="list-primary-item"
+                >...................</span
+              >[ <span class="list-primary-item">JavaScript</span> ]
+            </li>
+            
+            <li>
+              <a class="list-primary-item" href="https://github.com/Pablo-Dublo/Curriculum-Vitae"
+                >https://github.com/Pablo-Dublo/Curriculum-Vitae</a
+              >
+              <span class="list-primary-item"
+                >..........</span
+              >[ <span class="list-primary-item">This is my CV</span> ]
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h2 class="header-primary">Education</h2>
+
+          <p  class="description">Police Profile High School from 2011 to 2014 in Tarnowskie Góry,
+            </br>concluded with the matriculation exams.
+        </p>
+          
+          <h3 class="job-name">Junior Training <span class="highlight">Freelance</h3>
+            
+            <p class="job-data">April 2022 - Present | Poland</p>
+
+            <ul class="job-list">
+            <li>I completed a two-month JavaScript course at ALX, which introduced me to the world of IT. I learned to work with VSC and topics related to "Front-end" development.
+            </li>
+            <li>
+              The next course was a two-month Python training, again from ALX, and I find it much easier and more comfortable to work in "pyCharm" than VSC.
+            </li>
+            <li>
+              I spent 200 hours on these courses. I completed several projects in both languages. Learning and reasoning "Back-end" is definitely easier for me.
+            </li>
+            <li>
+              Both courses gave me a tremendous amount of knowledge. I have two certificates for completing these courses. I have read and always have on hand a book by David M. Beazley related to Python programming.
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="education">Professional Experience</h2>
+        </div>
+
+        <div>
+          <h3 class="job-name">Internship<span class="highlight"> Police Station in Bytom</span></h3>
+          <p class="job-data">September 2014 - November 2014 Powstańców Warszawskich 74, 41-902 Bytom</p>
+        </div>
+
+        <div>
+          <h3 class="job-name">Part-time Worker<span class="highlight"> NGplast Piekary Śląskie</span></h3>
+          <p class="job-data">September 05, 2014 + April 2015 - June 2015 Inwestycyjna 6, 41-940 Piekary Śląskie</p>
+        </div>
+
+        <div>
+          <h3 class="job-name">Customer Advisor/Warehouse Worker<span class="highlight"> Building Supply Stores</span></h3>
+          <p class="job-data">April 04, 2016 - June 2018 | Sewera Polska Chemia Nakielska 24, 42-600 Tarnowskie Góry</p>
+          <p class="job-data">October 12, 2018 - September 2020 | Leroy Merlin Graniczna 4, 54-610 Wrocław</p>
+
+          <ul class="job-manager">
+            <li>
+              Customer service, advising, mixing paints and plasters, placing orders, creating cost estimates, liaising with suppliers, forklift operation.
+            </li>
+            <li>MS Office 365, Kabe, Tikkurila, Atlas.</li>
+            <li>Category B driving license, UDT WJO1 authorizations.</li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="job-name">Interim Leader<span class="highlight"> Amazon</span></h3>
+
+          <p class="job-data">June 2021 - December 2021 | Leader WRO1</p>
+          <p class="job-data">October 2020 - January 2023 | Amazon Czekoladowa 1, 55-040 Bielany Wrocławskie</p>
+          <ul class="job-list">
+            <li>Leading a team of up to 100 people.</li>
+            <li>Collaboration with other departments.</li>
+            <li>Establishing and implementing long and short-term plans.</li>
+            <li>In a short time from employment, I had the opportunity to demonstrate my skills in temporary management positions.</li>
+          </ul>
+          <p class="oswiadczenie"> STATEMENT</br>
+            I consent to the processing of my personal data contained in the job offer
+            for the purposes necessary to carry out the recruitment process (in accordance with the Personal Data Protection Act of August 29, 1997 Dz.U. poz. 883).</p>
+        </div>
+
+      </main>
+      <aside>
+        <img
+          class="cv-photo"
+          src="photo.jpg"
+          width="310"
+          height="365"
+          alt="Photo: Paweł Kadłubek - Pablo-Dublo"
+        />
+        <div class="contact-block">
+          <h2 class="header-secondary">Contact</h2>
+
+          <p class="contact-links">
+            <span class="bold">Phone: </span>
+            <a class="contact-links" href="tel:+48 720 824 514"
+              >+48 720 824 514</a
+            >
+            <br />
+            <span class="bold">Email: </span>
+            <a class="contact-links" href="mailto: paweloos95@gmail.com"
+              >paweloos95@gmail.com</a
+            >
+            <br />
+            <span class="bold">City:</span>
+            <a class="contact-links" href="address:Wrocław"
+              >Wrocław</a
+            >
+          </p>
+
+        </div>
+
+        <div class="tech-skills-block">
+          <h2 class="header-secondary">Tech Skills</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">Python</span></li>
+            <li><span class="list-secondary-item">Django</span></li>
+            <li><span class="list-secondary-item">Tkinter</span></li>
+            <li><span class="list-secondary-item">API</span></li>
+            <li><span class="list-secondary-item">MySQL</span></li>
+            <li><span class="list-secondary-item">JavaScript</span></li>
+            <li><span class="list-secondary-item">HTML5</span></li>
+            <li><span class="list-secondary-item">CSS3</span></li>
+            <li><span class="list-secondary-item">Chat GPT</span></li>
+            <li><span class="list-secondary-item">MS Office 365</span></li>
+            <li><span class="list-secondary-item">iOS Procreate</span></li>
+          </ul>
+        </div>
+
+        <div class="soft-skills-block">
+          <h2 class="header-secondary">Soft Skills</h2>
+          <ul class="list-secondary">
+            <li><span class="list-secondary-item">Scrum</span></li>
+            <li><span class="list-secondary-item">Agile</span></li>
+            <li><span class="list-secondary-item">GTD</span></li>
+            <li><span class="list-secondary-item">Teamwork</span></li>
+            <li><span class="list-secondary-item">Creativity</span></li>
+            <li><span class="list-secondary-item">Adaptation</span></li>
+            <li><span class="list-secondary-item">Extroversion</span></li>
+            <li><span class="list-secondary-item">Enthusiasm and Focus</span></li>
+            
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>
